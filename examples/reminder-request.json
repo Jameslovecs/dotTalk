@@ -1,0 +1,7 @@
+{
+  "target": "owner_a",
+  "date": "2026-11-24",
+  "time_zone": "America/Los_Angeles",
+  "scopes": [{"kind": "card_reminder", "fields": ["issuer", "due_date"]}],
+  "ttl_minutes": 30
+}

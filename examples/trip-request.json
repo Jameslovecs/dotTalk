@@ -1,0 +1,10 @@
+{
+  "target": "owner_a",
+  "date": "2026-11-24",
+  "time_zone": "America/Los_Angeles",
+  "scopes": [
+    {"kind": "flight", "fields": ["airline", "flight_number", "origin", "destination", "departure", "arrival"]},
+    {"kind": "hotel", "fields": ["hotel_name", "city", "check_in", "check_out"]}
+  ],
+  "ttl_minutes": 30
+}
